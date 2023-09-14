@@ -14,3 +14,5 @@ Para colores especificos en Tailwind
 
 Codigo para ejecutar Tailwind en la terminal
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+
+npx tailwindcss -i ./src/input.css -o ./output.css --watch
