@@ -1,6 +1,14 @@
 # ltw
 Frameworks usados: Tailwind, Bootstrap
 
+Plugins de Tailwind usados:
+    aspect-ratio
+
+
+
+
+
+
 Para colores especificos en Tailwind  
 1er modo:
     .text-[Inserte codigo de color aqui]
@@ -14,5 +22,3 @@ Para colores especificos en Tailwind
 
 Codigo para ejecutar Tailwind en la terminal
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
-
-npx tailwindcss -i ./src/input.css -o ./output.css --watch
